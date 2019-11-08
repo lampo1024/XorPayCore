@@ -1,0 +1,10 @@
+{
+    "Payment": {
+        "XorPay": {
+            "AppId": "",//请填写你的aid
+            "AppSecret": "",//请填写你的应用密钥
+            "NotifyUrl": "http://localhost:63630/pay/xorpay/notify",
+            "ReturnUrl": "http://localhost:63630/pay/xorpay/callback"
+        }
+    }
+}
